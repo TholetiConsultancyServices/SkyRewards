@@ -18,3 +18,6 @@
 - Select the account number from the combocx box.
 - When atleast one channel is selected, rewards are calculated and shown in the Rewards list box.
 - On channel or account numbet selection, rewards are recalculated.
+
+
+https://user-images.githubusercontent.com/1597573/106404245-23fb2e00-642a-11eb-8fd9-c284f499edb6.png)
