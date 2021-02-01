@@ -12,3 +12,10 @@
 
 -  Provided Qt UI component with sample account numbers to test various sceanrios.
 
+## Steps to run the application:
+
+- Run the application using Qt Creator.
+- Select the account number from the combocx box.
+- When atleast one channel is selected, rewards are calculated and shown in the Rewards list box.
+- On channel or account numbet selection, rewards are recalculated.
+- 
