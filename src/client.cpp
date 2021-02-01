@@ -23,10 +23,12 @@ static const QHash< RewardsService::RewardType, QString > k_rewardsMap =
 static const QList<quint32> k_accountNumbers = {123456, 234567, 345678, 1111111};
 
 static const QString k_accountNumbersInfo =
+        "-------------Testing Information---------------------\n"
         "123456  - Eligible customer\n"
         "234567  - Not an eligible customer\n"
         "345678  - Technical failure\n"
-        "1111111 - Invalid account number\n";
+        "1111111 - Invalid account number\n"
+        "-----------------------------------------------------\n";
 
 Client:: Client(QWidget *parent)
     : QWidget(parent),
